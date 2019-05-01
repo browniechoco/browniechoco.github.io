@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brownie Choco's Blog"
+title                    : "Laboratory in a mess"
 title_separator          : "-"
 name                     : "Brownie Choco"
 description              : "Contact Info Site"
@@ -108,16 +108,13 @@ analytics:
 author:
   name             : "Brownie Choco"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "YOLO"
-  location         : "Korea, Seoul"
+  bio              : # "YOLO"
+  location         : # "Korea, Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:labomancontact@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://browniechoco.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://browniechoco.github.io"
